@@ -84,7 +84,7 @@ price = 10 + 5 * norm_demand
 - `Capstone_Pricing_Model_1,2.ipynb` – Main notebook
 - `parking_stream_full.csv` – Cleaned input data
 - `Modified-modified.csv`
-- `dataset.csv`
+- `dataset.csv` - Raw Dataset
 - `Parking_Pricing_Project_Report.docx` – Final submission report
 - `README.md` – This file
 
