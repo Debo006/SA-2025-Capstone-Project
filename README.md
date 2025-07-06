@@ -73,9 +73,9 @@ price = 10 + 5 * norm_demand
 
 ## 📷 Architecture Diagram
 
-![Architecture Flow](architecture_diagram.png)
+![Architecture Flow](architecture_diagram.jpg)
 
-> _(Include this diagram in your repo as `architecture_diagram.png`)_.
+
 
 ---
 
